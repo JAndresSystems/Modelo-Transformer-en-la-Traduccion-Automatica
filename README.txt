@@ -1,18 +1,21 @@
 <div align="center">
-  <h1>🚀 Modelo Transformer en la Traducción Automática</h1>
-  <p>Revoluciona la traducción automática con la potencia y precisión inigualables de los modelos Transformer.</p>
 
-  <img alt="Estado de Build" src="https://img.shields.io/badge/build-passing-brightgreen" />
-  <img alt="Licencia" src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  <img alt="PRs Bienvenidos" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
-  <img alt="Estrellas de GitHub" src="https://img.shields.io/github/stars/JAndresSystems/asistente_legal_multimodal?style=social" />
+# 🚀 Modelo Transformer en la Traducción Automática
+
+Revoluciona la traducción automática con la potencia y precisión inigualables de los modelos Transformer.
+
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#)
+[![Stars](https://img.shields.io/github/stars/JAndresSystems/asistente_legal_multimodal?style=social)](https://github.com/JAndresSystems/asistente_legal_multimodal)
+
 </div>
 
 ---
 
 ## 🎯 El Strategic "Why": Transformando la Comunicación Global
 
-> La traducción automática tradicional a menudo tropieza con la complejidad inherente del lenguaje, produciendo resultados que carecen de la fluidez, el contexto y la precisión necesarios. Esto se manifiesta en textos robóticos, malinterpretaciones y la constante necesidad de costosas revisiones humanas.
+> La traducción automática tradicional a menudo tropieza con la complejidad inherente del lenguaje, produciendo resultados que carecen de la fluidez, el contexto y la precisión necesarios.
 
 Este proyecto aborda estos desafíos aprovechando la **arquitectura Transformer**, un modelo de vanguardia en el Procesamiento del Lenguaje Natural (PLN). Gracias a sus mecanismos de **autoatención**, el modelo captura dependencias a largo plazo y matices contextuales, resultando en traducciones más naturales que superan las limitaciones de las redes neuronales recurrentes (RNN) tradicionales.
 
@@ -30,16 +33,17 @@ Este proyecto se construye sobre una base sólida de tecnologías probadas en el
 
 ### Stack Tecnológico
 
-*   **Lenguaje:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-*   **Framework de ML:** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) o ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-*   **Procesamiento de Datos:** ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-*   **NLP:** `Hugging Face Transformers` / `Tokenizers`
-*   **Entorno:** `Jupyter Notebook` / `Google Colab`
+| Tecnología | Logo |
+| :--- | :--- |
+| **Python** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **PyTorch** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
+| **NLP** | ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange?style=for-the-badge) |
 
 ---
 
-## 🚀 Instalación y Uso
+## 🚀 Instalación rápida
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone https://github.com/JAndresSystems/asistente_legal_multimodal.git
+```bash
+git clone https://github.com/JAndresSystems/asistente_legal_multimodal.git
+cd asistente_legal_multimodal
+pip install -r requirements.txt
