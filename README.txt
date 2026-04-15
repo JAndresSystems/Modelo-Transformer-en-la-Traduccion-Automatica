@@ -1,29 +1,219 @@
-<h1 id="-modelo-transformer-en-la-traducción-automática">🚀 Modelo Transformer en la Traducción Automática</h1>
-<p>Revoluciona la traducción automática con la potencia y precisión inigualables de los modelos Transformer.</p>
-<p><img alt="Build" src="https://img.shields.io/badge/build-passing-brightgreen">
-<img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg">
-<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
-<img alt="Stars" src="https://img.shields.io/github/stars/JAndresSystems/asistente_legal_multimodal?style=social"></p>
-<hr>
-<h2 id="-visión-general">🎯 Visión General</h2>
-<p>Este proyecto implementa la <strong>arquitectura Transformer</strong> para superar las limitaciones de la traducción tradicional, logrando resultados más fluidos y precisos mediante mecanismos de autoatención.</p>
-<h2 id="-características-clave">✨ Características Clave</h2>
-<ul>
-<li>🚀 <strong>Alta Precisión</strong>: Captura fielmente el contexto y matices del lenguaje.</li>
-<li>📊 <strong>Evaluación</strong>: Análisis de rendimiento con métricas claras.</li>
-<li>🧪 <strong>Modular</strong>: Fácil de adaptar a nuevos conjuntos de datos.</li>
-<li>💡 <strong>Educativo</strong>: Ideal para comprender mecanismos de atención en PLN.</li>
-</ul>
-<h2 id="️-arquitectura-técnica">🏗️ Arquitectura Técnica</h2>
-<ul>
-<li><strong>Lenguaje:</strong> Python 3.10+</li>
-<li><strong>IA:</strong> PyTorch / Hugging Face Transformers</li>
-<li><strong>Datos:</strong> NumPy / Pandas</li>
-<li><strong>Entorno:</strong> Jupyter Notebook / Google Colab</li>
-</ul>
-<hr>
-<h2 id="-instalación-y-uso">🚀 Instalación y Uso</h2>
-<ol>
-<li><strong>Clonar e instalar:</strong></li>
-</ol>
-<pre><pre><div style="color: rgb(171, 178, 191); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px;"><span>git clone https://github.com/JAndresSystems/asistente_legal_multimodal.git</span></div><div style="color: rgb(171, 178, 191); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px;"><span>cd asistente_legal_multimodal</span></div><div style="color: rgb(171, 178, 191); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px;"><span>pip install -r requirements.txt</span></div></pre></pre>
+# 🌐 Modelo-Transformer-en-la-Traduccion-Automatica  
+
+<p align="center">
+  <strong>
+    Revoluciona la traducción automática con la potencia y precisión inigualables de los modelos Transformer.
+  </strong>
+</p>
+
+<p align="center">
+  <img alt="Estado de Build" src="https://img.shields.io/badge/build-passing-brightgreen" />
+  <img alt="Licencia" src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  <img alt="PRs Bienvenidos" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+  <img alt="Estrellas de GitHub" src="https://img.shields.io/github/stars/your-username/Modelo-Transformer-en-la-Traduccion-Automatica?style=social" />
+</p>
+
+---
+
+## 🎯 El Strategic "Why": Transformando la Comunicación Global
+
+> La traducción automática tradicional a menudo tropieza con la complejidad inherente del lenguaje, produciendo resultados que carecen de la fluidez, el contexto y la precisión necesarios. Esto se manifiesta en textos robóticos, malinterpretaciones y la constante necesidad de costosas revisiones humanas, lo que ralentiza drásticamente la comunicación global y la eficiencia operativa.
+
+Este proyecto aborda directamente estos desafíos aprovechando la arquitectura **Transformer**, un modelo de vanguardia en el **Procesamiento del Lenguaje Natural (PLN)**.
+
+A través de sus innovadores mecanismos de **autoatención**, el Transformer es capaz de:
+
+- Capturar dependencias a largo plazo  
+- Interpretar matices contextuales  
+- Generar traducciones más naturales  
+
+El resultado es un sistema de traducción automática significativamente más preciso y coherente.
+
+---
+
+## ✨ Características Clave
+
+- 🚀 **Traducciones de Alta Precisión**  
+  Resultados que capturan fielmente el contexto y los matices del lenguaje.
+
+- ✨ **Rendimiento de Vanguardia**  
+  Implementación basada en la arquitectura Transformer moderna.
+
+- 📊 **Evaluación Detallada**  
+  Métricas claras y ejemplos prácticos para analizar resultados.
+
+- 🧪 **Experimentación Flexible**  
+  Código adaptable a nuevos datasets y tareas lingüísticas.
+
+- 💡 **Comprensión Profunda de PLN**  
+  Aprendizaje práctico sobre mecanismos de atención.
+
+---
+
+## 🏗️ Arquitectura Técnica
+
+Este proyecto utiliza tecnologías modernas ampliamente adoptadas en Machine Learning y PLN.
+
+### Stack Tecnológico
+
+| Tecnología | Propósito |
+|-----------|-----------|
+| **Python** | Lenguaje principal |
+| **Jupyter Notebook** | Desarrollo interactivo |
+| **TensorFlow / PyTorch** | Entrenamiento del modelo |
+| **Hugging Face Transformers** | Implementación Transformer |
+| **Pandas** | Manipulación de datos |
+| **NumPy** | Computación numérica |
+
+---
+
+## 📁 Estructura del Proyecto
+
+# 🌐 Modelo-Transformer-en-la-Traduccion-Automatica  
+
+<p align="center">
+  <strong>
+    Revoluciona la traducción automática con la potencia y precisión inigualables de los modelos Transformer.
+  </strong>
+</p>
+
+<p align="center">
+  <img alt="Estado de Build" src="https://img.shields.io/badge/build-passing-brightgreen" />
+  <img alt="Licencia" src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  <img alt="PRs Bienvenidos" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+  <img alt="Estrellas de GitHub" src="https://img.shields.io/github/stars/JAndresSystems/asistente_legal_multimodal?style=social" />
+</p>
+
+---
+
+## 🎯 El Strategic "Why": Transformando la Comunicación Global
+
+> La traducción automática tradicional a menudo tropieza con la complejidad inherente del lenguaje, produciendo resultados que carecen de la fluidez, el contexto y la precisión necesarios. Esto se manifiesta en textos robóticos, malinterpretaciones y la constante necesidad de costosas revisiones humanas, lo que ralentiza drásticamente la comunicación global y la eficiencia operativa.
+
+Este proyecto aborda directamente estos desafíos aprovechando la arquitectura **Transformer**, un modelo de vanguardia en el **Procesamiento del Lenguaje Natural (PLN)**.
+
+A través de sus innovadores mecanismos de **autoatención**, el Transformer es capaz de:
+
+- Capturar dependencias a largo plazo  
+- Interpretar matices contextuales  
+- Generar traducciones más naturales  
+
+El resultado es un sistema de traducción automática significativamente más preciso y coherente.
+
+---
+
+## ✨ Características Clave
+
+- 🚀 **Traducciones de Alta Precisión**  
+  Resultados que capturan fielmente el contexto y los matices del lenguaje.
+
+- ✨ **Rendimiento de Vanguardia**  
+  Implementación basada en la arquitectura Transformer moderna.
+
+- 📊 **Evaluación Detallada**  
+  Métricas claras y ejemplos prácticos para analizar resultados.
+
+- 🧪 **Experimentación Flexible**  
+  Código adaptable a nuevos datasets y tareas lingüísticas.
+
+- 💡 **Comprensión Profunda de PLN**  
+  Aprendizaje práctico sobre mecanismos de atención.
+
+---
+
+## 🏗️ Arquitectura Técnica
+
+Este proyecto utiliza tecnologías modernas ampliamente adoptadas en Machine Learning y PLN.
+
+### Stack Tecnológico
+
+| Tecnología | Propósito |
+|-----------|-----------|
+| **Python** | Lenguaje principal |
+| **Jupyter Notebook** | Desarrollo interactivo |
+| **PyTorch / TensorFlow** | Entrenamiento del modelo |
+| **Hugging Face** | Librería de Transformers |
+| **Pandas** | Manipulación de datos |
+| **NumPy** | Computación numérica |
+
+---
+
+## 📁 Estructura del Proyecto
+
+```text
+├── data/               # Conjuntos de datos (Datasets)
+├── notebooks/          # Notebooks de experimentación (.ipynb)
+├── src/                # Scripts de procesamiento y arquitectura
+├── requirements.txt    # Dependencias del proyecto
+└── README.md           # Documentación principal 
+
+---
+
+## 🚀 Instalación y Uso
+
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/JAndresSystems/asistente_legal_multimodal.git
+cd asistente_legal_multimodal
+
+### 2. Instalar dependencias
+Instala todas las librerías necesarias ejecutando el siguiente comando:
+
+```bash
+pip install -r requirements.txt
+
+## ▶️ 3. Ejecución
+
+1. Abre tu entorno de desarrollo preferido:
+   - VS Code  
+   - Jupyter Notebook  
+   - Google Colab  
+
+2. Carga el archivo principal del proyecto  
+   (ubicado en la carpeta `notebooks/`).
+
+3. Ejecuta las celdas secuencialmente para:
+   - Procesar los datos  
+   - Iniciar el entrenamiento  
+   - Realizar inferencias de traducción  
+
+---
+
+## 🤝 Contribuciones
+
+¡Las contribuciones son lo que hacen que la comunidad de código abierto sea un lugar increíble!
+
+Pasos para contribuir:
+
+1. Haz un **Fork** del proyecto  
+
+2. Crea tu rama de característica:
+
+```bash
+git checkout -b feature/NuevaMejora
+
+Realiza un commit de tus cambios:
+
+```bash
+git commit -m "Añadida nueva funcionalidad"
+
+Haz push a la rama:
+
+```bash
+git push origin feature/NuevaMejora
+
+Abre un **Pull Request**
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la **Licencia MIT**.  
+Consulta el archivo `LICENSE` para obtener más información.
+
+---
+
+© 2026 **JAndresSystems** — Innovación en IA Multimodal
+
+
+
