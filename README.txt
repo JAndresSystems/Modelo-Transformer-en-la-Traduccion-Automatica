@@ -1,19 +1,10 @@
-# 🌐 Modelo-Transformer-en-la-Traduccion-Automatica  
+# 🌐 Modelo-Transformer-en-la-Traduccion-Automatica
 
-<p align="center">
-  <strong>
-    Revoluciona la traducción automática con la potencia y precisión inigualables de los modelos Transformer.
-  </strong>
-</p>
+**Revoluciona la traducción automática con la potencia y precisión inigualables de los modelos Transformer.**
 
-<p align="center">
-  <img alt="Estado de Build" src="https://img.shields.io/badge/build-passing-brightgreen" />
-  <img alt="Licencia" src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  <img alt="PRs Bienvenidos" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
-  <img alt="Estrellas de GitHub" src="https://img.shields.io/github/stars/your-username/Modelo-Transformer-en-la-Traduccion-Automatica?style=social" />
-</p>
+![Estado de Build](https://img.shields.io/badge/build-passing-brightgreen) ![Licencia](https://img.shields.io/badge/License-MIT-blue.svg) ![PRs Bienvenidos](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![Estrellas de GitHub](https://img.shields.io/github/stars/your-username/Modelo-Transformer-en-la-Traduccion-Automatica?style=social)
 
----
+- - -
 
 ## 🎯 El Strategic "Why": Transformando la Comunicación Global
 
@@ -23,32 +14,33 @@ Este proyecto aborda directamente estos desafíos aprovechando la arquitectura *
 
 A través de sus innovadores mecanismos de **autoatención**, el Transformer es capaz de:
 
-- Capturar dependencias a largo plazo  
-- Interpretar matices contextuales  
-- Generar traducciones más naturales  
+*   Capturar dependencias a largo plazo
+*   Interpretar matices contextuales
+*   Generar traducciones más naturales
 
 El resultado es un sistema de traducción automática significativamente más preciso y coherente.
 
----
+- - -
 
 ## ✨ Características Clave
 
-- 🚀 **Traducciones de Alta Precisión**  
-  Resultados que capturan fielmente el contexto y los matices del lenguaje.
+*   🚀 **Traducciones de Alta Precisión**  
+    Resultados que capturan fielmente el contexto y los matices del lenguaje.
+    
+*   ✨ **Rendimiento de Vanguardia**  
+    Implementación basada en la arquitectura Transformer moderna.
+    
+*   📊 **Evaluación Detallada**  
+    Métricas claras y ejemplos prácticos para analizar resultados.
+    
+*   🧪 **Experimentación Flexible**  
+    Código adaptable a nuevos datasets y tareas lingüísticas.
+    
+*   💡 **Comprensión Profunda de PLN**  
+    Aprendizaje práctico sobre mecanismos de atención.
+    
 
-- ✨ **Rendimiento de Vanguardia**  
-  Implementación basada en la arquitectura Transformer moderna.
-
-- 📊 **Evaluación Detallada**  
-  Métricas claras y ejemplos prácticos para analizar resultados.
-
-- 🧪 **Experimentación Flexible**  
-  Código adaptable a nuevos datasets y tareas lingüísticas.
-
-- 💡 **Comprensión Profunda de PLN**  
-  Aprendizaje práctico sobre mecanismos de atención.
-
----
+- - -
 
 ## 🏗️ Arquitectura Técnica
 
@@ -57,7 +49,7 @@ Este proyecto utiliza tecnologías modernas ampliamente adoptadas en Machine Lea
 ### Stack Tecnológico
 
 | Tecnología | Propósito |
-|-----------|-----------|
+| --- | --- |
 | **Python** | Lenguaje principal |
 | **Jupyter Notebook** | Desarrollo interactivo |
 | **TensorFlow / PyTorch** | Entrenamiento del modelo |
@@ -65,26 +57,17 @@ Este proyecto utiliza tecnologías modernas ampliamente adoptadas en Machine Lea
 | **Pandas** | Manipulación de datos |
 | **NumPy** | Computación numérica |
 
----
+- - -
 
 ## 📁 Estructura del Proyecto
 
-# 🌐 Modelo-Transformer-en-la-Traduccion-Automatica  
+# 🌐 Modelo-Transformer-en-la-Traduccion-Automatica
 
-<p align="center">
-  <strong>
-    Revoluciona la traducción automática con la potencia y precisión inigualables de los modelos Transformer.
-  </strong>
-</p>
+**Revoluciona la traducción automática con la potencia y precisión inigualables de los modelos Transformer.**
 
-<p align="center">
-  <img alt="Estado de Build" src="https://img.shields.io/badge/build-passing-brightgreen" />
-  <img alt="Licencia" src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  <img alt="PRs Bienvenidos" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
-  <img alt="Estrellas de GitHub" src="https://img.shields.io/github/stars/JAndresSystems/asistente_legal_multimodal?style=social" />
-</p>
+![Estado de Build](https://img.shields.io/badge/build-passing-brightgreen) ![Licencia](https://img.shields.io/badge/License-MIT-blue.svg) ![PRs Bienvenidos](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![Estrellas de GitHub](https://img.shields.io/github/stars/JAndresSystems/asistente_legal_multimodal?style=social)
 
----
+- - -
 
 ## 🎯 El Strategic "Why": Transformando la Comunicación Global
 
@@ -94,32 +77,33 @@ Este proyecto aborda directamente estos desafíos aprovechando la arquitectura *
 
 A través de sus innovadores mecanismos de **autoatención**, el Transformer es capaz de:
 
-- Capturar dependencias a largo plazo  
-- Interpretar matices contextuales  
-- Generar traducciones más naturales  
+*   Capturar dependencias a largo plazo
+*   Interpretar matices contextuales
+*   Generar traducciones más naturales
 
 El resultado es un sistema de traducción automática significativamente más preciso y coherente.
 
----
+- - -
 
 ## ✨ Características Clave
 
-- 🚀 **Traducciones de Alta Precisión**  
-  Resultados que capturan fielmente el contexto y los matices del lenguaje.
+*   🚀 **Traducciones de Alta Precisión**  
+    Resultados que capturan fielmente el contexto y los matices del lenguaje.
+    
+*   ✨ **Rendimiento de Vanguardia**  
+    Implementación basada en la arquitectura Transformer moderna.
+    
+*   📊 **Evaluación Detallada**  
+    Métricas claras y ejemplos prácticos para analizar resultados.
+    
+*   🧪 **Experimentación Flexible**  
+    Código adaptable a nuevos datasets y tareas lingüísticas.
+    
+*   💡 **Comprensión Profunda de PLN**  
+    Aprendizaje práctico sobre mecanismos de atención.
+    
 
-- ✨ **Rendimiento de Vanguardia**  
-  Implementación basada en la arquitectura Transformer moderna.
-
-- 📊 **Evaluación Detallada**  
-  Métricas claras y ejemplos prácticos para analizar resultados.
-
-- 🧪 **Experimentación Flexible**  
-  Código adaptable a nuevos datasets y tareas lingüísticas.
-
-- 💡 **Comprensión Profunda de PLN**  
-  Aprendizaje práctico sobre mecanismos de atención.
-
----
+- - -
 
 ## 🏗️ Arquitectura Técnica
 
@@ -128,7 +112,7 @@ Este proyecto utiliza tecnologías modernas ampliamente adoptadas en Machine Lea
 ### Stack Tecnológico
 
 | Tecnología | Propósito |
-|-----------|-----------|
+| --- | --- |
 | **Python** | Lenguaje principal |
 | **Jupyter Notebook** | Desarrollo interactivo |
 | **PyTorch / TensorFlow** | Entrenamiento del modelo |
@@ -136,84 +120,100 @@ Este proyecto utiliza tecnologías modernas ampliamente adoptadas en Machine Lea
 | **Pandas** | Manipulación de datos |
 | **NumPy** | Computación numérica |
 
----
+- - -
 
 ## 📁 Estructura del Proyecto
 
-```text
 ├── data/               # Conjuntos de datos (Datasets)
+
 ├── notebooks/          # Notebooks de experimentación (.ipynb)
+
 ├── src/                # Scripts de procesamiento y arquitectura
+
 ├── requirements.txt    # Dependencias del proyecto
+
 └── README.md           # Documentación principal 
 
----
+\---
 
-## 🚀 Instalación y Uso
+\## 🚀 Instalación y Uso
 
-### 1. Clonar el repositorio
-```bash
-git clone https://github.com/JAndresSystems/asistente_legal_multimodal.git
-cd asistente_legal_multimodal
+\### 1. Clonar el repositorio
 
-### 2. Instalar dependencias
+\`\`\`bash
+
+git clone https://github.com/JAndresSystems/asistente\_legal\_multimodal.git
+
+cd asistente\_legal\_multimodal
+
+\### 2. Instalar dependencias
+
 Instala todas las librerías necesarias ejecutando el siguiente comando:
 
-```bash
+\`\`\`bash
+
 pip install -r requirements.txt
 
-## ▶️ 3. Ejecución
+\## ▶️ 3. Ejecución
 
-1. Abre tu entorno de desarrollo preferido:
+1\. Abre tu entorno de desarrollo preferido:
+
    - VS Code  
+
    - Jupyter Notebook  
+
    - Google Colab  
 
-2. Carga el archivo principal del proyecto  
-   (ubicado en la carpeta `notebooks/`).
+2\. Carga el archivo principal del proyecto  
 
-3. Ejecuta las celdas secuencialmente para:
+   (ubicado en la carpeta \`notebooks/\`).
+
+3\. Ejecuta las celdas secuencialmente para:
+
    - Procesar los datos  
+
    - Iniciar el entrenamiento  
+
    - Realizar inferencias de traducción  
 
----
+\---
 
-## 🤝 Contribuciones
+\## 🤝 Contribuciones
 
 ¡Las contribuciones son lo que hacen que la comunidad de código abierto sea un lugar increíble!
 
 Pasos para contribuir:
 
-1. Haz un **Fork** del proyecto  
+1\. Haz un \*\*Fork\*\* del proyecto  
 
-2. Crea tu rama de característica:
+2\. Crea tu rama de característica:
 
-```bash
+\`\`\`bash
+
 git checkout -b feature/NuevaMejora
 
 Realiza un commit de tus cambios:
 
-```bash
+\`\`\`bash
+
 git commit -m "Añadida nueva funcionalidad"
 
 Haz push a la rama:
 
-```bash
+\`\`\`bash
+
 git push origin feature/NuevaMejora
 
-Abre un **Pull Request**
+Abre un \*\*Pull Request\*\*
 
----
+\---
 
-## 📄 Licencia
+\## 📄 Licencia
 
-Este proyecto está bajo la **Licencia MIT**.  
-Consulta el archivo `LICENSE` para obtener más información.
+Este proyecto está bajo la \*\*Licencia MIT\*\*.  
 
----
+Consulta el archivo \`LICENSE\` para obtener más información.
 
-© 2026 **JAndresSystems** — Innovación en IA Multimodal
+\---
 
-
-
+© 2026 \*\*JAndresSystems\*\* — Innovación en IA Multimodal
